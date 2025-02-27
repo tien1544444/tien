@@ -1,0 +1,21 @@
+.box {
+    width: 400px;
+    height: 250px;
+    padding: 20%;
+    background-color: rgb(224, 224, 224);
+    color: white;
+    font-size: 50px;
+    text-align: center;
+  }
+  .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  a {
+    text-decoration: none;
+    padding: 8px 16px;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+  }

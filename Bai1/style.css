@@ -1,0 +1,30 @@
+.box {
+  width: 200px;
+  height: 70px;
+  background-color: rgb(0, 109, 128);
+  font-size: 40px;
+  color: aliceblue;
+}
+
+.box {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
+
+span {
+  color: blue;
+}
+a {
+  text-decoration: none;
+  background-color: black;
+  border-radius: 999px;
+  color: white;
+  width: 100px;
+  padding: 8px 16px;
+  text-align: center;
+  display: inline-block;
+}
